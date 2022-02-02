@@ -1,0 +1,14 @@
+glob
+cv2
+numpy
+os
+pandas
+PIL
+torch 1.10.1
+torchvision 0.11.2
+tqdm
+
+OS Windows10
+Python version 3.9.7 (installed using anaconda latest windows)
+
+Training and demo was done on colab 
